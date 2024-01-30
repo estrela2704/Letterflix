@@ -1,6 +1,6 @@
 # Letterflix
 
-Aplicação feita em PHP utilizando os conceitos da Programação Orientada a Objetos(POO).
+Aplicação feita em PHP utilizando os conceitos da Programação Orientada a Objetos.  
 Para executar basta ter o PHP, Apache, e o MySQL instalado no seu servidor e seguir os seguintes passos:
 
 ## Instalação
