@@ -9,3 +9,8 @@ Para executar basta ter o PHP, Apache, e o MySQL instalado no seu servidor e seg
 3. Alterar suas credenciais no arquivo db.php.
 
 Pronto, sua aplicação já estará pronta para uso!
+
+
+## Autor
+
+- Felipe Estrela de Albuquerque
